@@ -10,7 +10,7 @@
 - adição de licença e diferenciação entre elas
 
 
-  # Fundamentals
+# Fundamentals
 - creation of GIT repository
 - synchronization of local repository with remote
 - file PUSH request
